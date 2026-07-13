@@ -162,6 +162,61 @@ operators:
       - 'Transwa'
     color: '#ec4025'
 
+  # --- AU: freight operators --- #
+
+  - country: AU
+    names:
+      - 'BHP'
+      - 'BHP Billiton'
+      - 'BHP Iron Ore'
+      - 'BHP Iron Ore Pty Ltd'
+    color: '#E25200'
+
+  - country: AU
+    names:
+      - 'Rio Tinto'
+      - 'Rio Tinto Iron Ore'
+      - 'Hamersley Iron'
+      - 'Pilbara Iron'
+    color: '#CD2C2C'
+
+  - country: AU
+    names:
+      - 'Hancock Prospecting'
+      - 'Roy Hill'
+      - 'Roy Hill Holdings'
+      - 'Hancock Iron Ore'
+    color: '#86150F' # No official brand colour published; taken from hancockprospecting.com.au site accent colour
+
+  - country: AU
+    names:
+      - 'Fortescue'
+      - 'Fortescue Metals Group'
+      - 'FMG'
+    color: '#00c400' # Official brand green is a very bright neon green (#00FF00); toned down slightly for map legibility
+
+  - country: AU
+    names:
+      - 'Aurizon'
+      - 'Aurizon Operations Limited'
+      - 'QR National'
+    color: '#FF9900'
+
+  - country: AU
+    names:
+      - 'Bowen Rail Company'
+      - 'Bowen Rail'
+    color: '#001a72'
+
+  # --- AU: Airtrain (Brisbane airport line) --- #
+
+  - country: AU
+    names:
+      - 'Airtrain'
+      - 'Airtrain Citylink'
+      - 'Airtrain Citylink Limited'
+    color: '#00a9a5' # Approximate teal from Airtrain branding; no official hex code published
+
   # --- AZ --- #
 
   - country: AZ
