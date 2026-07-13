@@ -170,6 +170,8 @@ operators:
       - 'BHP Billiton'
       - 'BHP Iron Ore'
       - 'BHP Iron Ore Pty Ltd'
+      - 'BHP Billiton Iron Ore'
+      - 'BHP Billiton Iron Ore Pty Ltd'
     color: '#E25200'
 
   - country: AU
@@ -178,6 +180,7 @@ operators:
       - 'Rio Tinto Iron Ore'
       - 'Hamersley Iron'
       - 'Pilbara Iron'
+      - 'Pilbara Iron Pty Ltd'
     color: '#CD2C2C'
 
   - country: AU
@@ -185,6 +188,7 @@ operators:
       - 'Hancock Prospecting'
       - 'Roy Hill'
       - 'Roy Hill Holdings'
+      - 'Roy Hill Infrastructure Pty Ltd'
       - 'Hancock Iron Ore'
     color: '#86150F' # No official brand colour published; taken from hancockprospecting.com.au site accent colour
 
@@ -199,6 +203,7 @@ operators:
     names:
       - 'Aurizon'
       - 'Aurizon Operations Limited'
+      - 'Aurizon Network'
       - 'QR National'
     color: '#FF9900'
 
